@@ -24,4 +24,4 @@ This project analyzes an Amazon sales dataset using SQL to extract insights abou
 
 ## 🙋‍♂️ Author
 
-Created by Savan Patel. Feel free to reach out for collaboration or feedback!
+Created by Savan Patel.
